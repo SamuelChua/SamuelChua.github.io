@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://SamuelChua.github.io/sitemap.xml
+Sitemap: https://SamuelChua.github.io//sitemap.xml
