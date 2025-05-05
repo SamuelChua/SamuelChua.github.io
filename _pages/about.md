@@ -1,17 +1,15 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: MSE Robotics @ University of Pennsylvania | BS Computer Science & Engineering @ UCLA 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: samuel.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +20,18 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 3 # leave blank to include all the blog posts 
+
+# TO INSERT PROF NAME ONCE CONFIRMED
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is **Samuel Chua**, and I am a first-year Robotics Masters student at University of Pennsylvania. I believe in exploring the unknown and very much enjoy the thrill of learning through curiosity! 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests stem from **autonomous robots** to topics such as vision-language models, agile autonomy, simultaneous localization and mapping (SLAM), computer vision, perception and field robotics. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am currently an incoming SDE intern at Amazon, and will be working in the BOS17 office with the Amazon Foundational People Data Services (FPDS) team!
+
+I received my B.S. in Computer Science & Engineering from UCLA in 2025. I worked with Professor Brett Lopez in VECTR lab on SLAM and change detection. 
+
