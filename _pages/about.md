@@ -27,7 +27,7 @@ latest_posts:
 # TO INSERT PROF NAME ONCE CONFIRMED
 ---
 
-Hello! My name is **Samuel Chua**, and I am a first-year Robotics Masters student at University of Pennsylvania. I believe in exploring the unknown and very much enjoy the thrill of learning through curiosity! 
+Hello! My name is **Samuel Chua**, and I am a first-year Robotics Masters student at the University of Pennsylvania. I believe in exploring the unknown and very much enjoy the thrill of learning through curiosity! 
 
 My research interests stem from **autonomous robots** to topics such as vision-language models, agile autonomy, simultaneous localization and mapping (SLAM), computer vision, perception and field robotics. 
 
