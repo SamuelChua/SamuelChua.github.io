@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-resume",
           title: "Resume",
-          description: "Last updated 9 July 2025",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/resume/";
@@ -44,8 +44,14 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/news/";
               },
-            },{id: "news-graduated-from-ucla-with-a-bs-in-computer-science-amp-amp-engineering",
+            },{id: "news-paper-accepted-at-aamas-24",
+          title: 'Paper accepted at AAMAS’24!',
+          description: "",
+          section: "News",},{id: "news-graduated-from-ucla-with-a-bs-in-computer-science-amp-amp-engineering",
           title: 'Graduated from UCLA with a BS in Computer Science &amp;amp;amp; Engineering!',
+          description: "",
+          section: "News",},{id: "news-started-mse-robotics-at-upenn",
+          title: 'Started MSE Robotics at UPenn!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
