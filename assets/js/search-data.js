@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "Projects",
+  },{id: "nav-experience",
+          title: "Experience",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/index.html";
+            window.location.href = "/experience/";
           },
         },{id: "nav-publications",
           title: "Publications",
@@ -44,8 +44,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/news/";
               },
-            },{id: "news-paper-accepted-at-aamas-24",
-          title: 'Paper accepted at AAMAS’24!',
+            },{id: "news-paper-accepted-at-aamas-24-https-www-aamas2024-conference-auckland-ac-nz",
+          title: 'Paper accepted at [AAMAS’24] (https://www.aamas2024-conference.auckland.ac.nz/)!',
           description: "",
           section: "News",},{id: "news-graduated-from-ucla-with-a-bs-in-computer-science-amp-amp-engineering",
           title: 'Graduated from UCLA with a BS in Computer Science &amp;amp;amp; Engineering!',
