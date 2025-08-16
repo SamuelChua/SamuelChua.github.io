@@ -32,4 +32,4 @@ My research interests stem from **autonomous robots** to topics such as vision-l
 
 In Summer 2025, I was a SDE intern at Amazon with the Foundational People Data Services (FPDS) team and worked on a centralized AWS DynamoDB data transformation mechanism to generate real-time data representations.
 
-I received my B.S. in Computer Science & Engineering from UCLA in 2025. I worked with Professor [Brett Lopez] (https://btlopez.github.io/) in VECTR lab on SLAM and change detection and with Professor [Ankur Mehta] (https://uclalemur.com/people/ankur-mehta) in LEMUR Lab on Deep Reinforcement Learning.
+I received my B.S. in Computer Science & Engineering from UCLA in 2025. I worked with Professor [Brett Lopez](https://btlopez.github.io/) in [VECTR Lab](https://vectr-ucla.github.io/) on SLAM and change detection and with Professor [Ankur Mehta](https://uclalemur.com/people/ankur-mehta/) in LEMUR Lab on Deep Reinforcement Learning.
