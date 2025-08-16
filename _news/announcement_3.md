@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at AAMAS'24! 
+Paper accepted at [AAMAS'24] (https://www.aamas2024-conference.auckland.ac.nz/)!

@@ -4,10 +4,10 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Samuel
-middle_name: 
+middle_name:
 last_name: Chua
 contact_note: >
-  Feel free to keep in touch! 
+  Feel free to keep in touch!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   MSE Robotics @ University of Pennsylvania | BS Computer Science & Engineering @ UCLA
 footer_text: >
@@ -78,7 +78,7 @@ twitter_username: scjc2001 # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: samuelchuajiacong # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid:  # your Google Scholar ID
+scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -107,7 +107,6 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 cv_resume: /assets/pdf/Samuel_Resume.pdf
-
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

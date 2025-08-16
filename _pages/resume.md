@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 nav: true
 nav_order: 3
-description: 
+description:
 ---
 
 <iframe class="iframe-pdf" src="/assets/pdf/Samuel_Resume.pdf" width="100%" height="800px" frameborder="0"></iframe>
