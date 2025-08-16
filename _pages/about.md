@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: MSE Robotics @ University of Pennsylvania | BS Computer Science & Engineering @ UCLA 
+subtitle: MSE Robotics @ University of Pennsylvania | BS Computer Science & Engineering @ UCLA | SDE Intern @ Amazon
 
 profile:
   align: right
@@ -31,7 +31,7 @@ Hello! My name is **Samuel Chua**, and I am a first-year Robotics Masters studen
 
 My research interests stem from **autonomous robots** to topics such as vision-language models, agile autonomy, simultaneous localization and mapping (SLAM), computer vision, perception and field robotics. 
 
-I am currently an incoming SDE intern at Amazon, and will be working in the BOS17 office with the Amazon Foundational People Data Services (FPDS) team!
+In Summer 2025, I was a SDE intern at Amazon with the Foundational People Data Services (FPDS) team and worked on a centralized AWS DynamoDB data transformation mechanism to generate real-time data representations. 
 
-I received my B.S. in Computer Science & Engineering from UCLA in 2025. I worked with Professor Brett Lopez in VECTR lab on SLAM and change detection. 
+I received my B.S. in Computer Science & Engineering from UCLA in 2025. I worked with Professor Brett Lopez in VECTR lab on SLAM and change detection and with Professor Ankur Mehta in LEMUR on Deep Reinforcement Learning. 
 
