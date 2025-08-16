@@ -9,7 +9,7 @@ experiences:
   - company: Amazon
     location: Boston, MA, USA
     role: Software Development Intern
-    dates: Jun 2025 -- Present
+    dates: Jun 2025 -- Sep 2025
     bullets:
       - Engineered a centralized AWS DynamoDB data transformation mechanism, reducing write operation costs by 50%
       - Designed virtual middleware to generate simplified real-time data representations for 20+ downstream teams
@@ -49,7 +49,7 @@ experiences:
     bullets:
       - Formulated a robust Deep Reinforcement Learning algorithm to optimize distribution of large-scale robot systems
       - Employed decentralized controllers in Python to achieve Nash Equilibrium, enhancing Uber dispatching operations
-      - Publication: 3rd Author on “Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning,” International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
+      - Publication - 3rd Author on “Population-aware Online Mirror Descent for Mean-Field Games by Deep Reinforcement Learning,” International Conference on Autonomous Agents and Multiagent Systems (AAMAS)
 
   - company: Defence Science Organization (DSO) National Laboratories
     location: Singapore
@@ -113,9 +113,6 @@ activities_projects:
   </div>
 
   <!-- EXPERIENCE -->
-  <h2 class="mt-4 mb-3">
-    <i class="fa-solid fa-briefcase fa-sm"></i> Experience
-  </h2>
 
   <ul class="post-list">
     {% for exp in page.experiences %}
