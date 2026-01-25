@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-experience",
-          title: "Experience",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experience/";
-          },
-        },{id: "nav-publications",
+  },{id: "nav-publications",
           title: "Publications",
           description: "",
           section: "Navigation",
@@ -49,6 +42,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-graduated-from-ucla-with-a-bs-in-computer-science-amp-amp-engineering",
           title: 'Graduated from UCLA with a BS in Computer Science &amp;amp;amp; Engineering!',
+          description: "",
+          section: "News",},{id: "news-joined-amazon-as-a-sde-intern-on-the-foundational-people-data-services-team",
+          title: 'Joined Amazon as a SDE Intern on the Foundational People Data Services team...',
           description: "",
           section: "News",},{id: "news-started-mse-robotics-at-upenn",
           title: 'Started MSE Robotics at UPenn!',
