@@ -23,22 +23,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resume/";
           },
-        },{id: "dropdown-repositories",
-              title: "Repositories",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/repositories/";
-              },
-            },{id: "dropdown-news",
-              title: "News",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/news/";
-              },
-            },{id: "news-paper-accepted-at-aamas-24",
+        },{id: "nav-projects",
+          title: "Projects",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects/";
+          },
+        },{id: "nav-news",
+          title: "News",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/news/";
+          },
+        },{id: "news-paper-accepted-at-aamas-24",
           title: 'Paper accepted at AAMAS’24!',
+          description: "",
+          section: "News",},{id: "news-talk-on-change-detection-in-dynamic-environments-at-ucla-undergraduate-research-week-2025",
+          title: 'Talk on Change Detection in Dynamic Environments at UCLA Undergraduate Research Week 2025...',
           description: "",
           section: "News",},{id: "news-graduated-from-ucla-with-a-bs-in-computer-science-amp-amp-engineering",
           title: 'Graduated from UCLA with a BS in Computer Science &amp;amp;amp; Engineering!',
@@ -48,6 +51,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-started-mse-robotics-at-upenn",
           title: 'Started MSE Robotics at UPenn!',
+          description: "",
+          section: "News",},{id: "news-joined-linkedin-as-an-ai-infra-intern-on-the-information-retrieval-platform-team",
+          title: 'Joined LinkedIn as an AI Infra Intern on the Information Retrieval Platform team...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
