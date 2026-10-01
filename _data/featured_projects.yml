@@ -1,0 +1,16 @@
+- title: "Trail Mix: Multi-Robot Coordination"
+  url: /projects/trail-mix/
+  image: /assets/img/projects/trail-mix-system.jpg
+  alt: Four robot arms across two trail mix assembly lines during the project demonstration
+  description: Shared ROS communication for perception, scheduling, and execution across a four-robot system.
+- title: pill.ai
+  url: /projects/pill-ai/
+  image: /assets/img/projects/pill-ai.png
+  alt: pill.ai logo
+  contain: true
+  description: Medication verification with Google Gemini, React, and Material UI. <br> LA Hacks 2024 “Good to Go” track winner.
+- title: Wifi-Seeing Camera
+  url: /projects/wifi-camera/
+  image: /assets/img/projects/wifi-camera.jpg
+  alt: Directional antenna, webcam, and Arduino in the WiFi camera prototype
+  description: See through walls with a WiFi camera! 

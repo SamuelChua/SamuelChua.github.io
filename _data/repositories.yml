@@ -4,3 +4,8 @@ github_users:
 github_repos:
   - SamuelChua/pill.ai
   - SamuelChua/Wifi-Cam
+
+repo_cards:
+  SamuelChua/Wifi-Cam:
+    light: /assets/img/repository_cards/wifi-cam-light.svg
+    dark: /assets/img/repository_cards/wifi-cam-dark.svg

@@ -19,7 +19,7 @@ icon: samuel_icon.png # the emoji used as the favicon (alternatively, provide im
 
 url: https://SamuelChua.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: true # set to true if you want to display last updated in the footer
+last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -48,7 +48,7 @@ rss_icon: false
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 search_enabled: false
 socials_in_search: false
 posts_in_search: false
@@ -106,7 +106,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
-cv_resume: /assets/pdf/Samuel_Resume.pdf
+cv_resume: /assets/pdf/Resume_Samuel.pdf
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -305,7 +305,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Chua]
-  first_name: [Samuel]
+  first_name: [Samuel, Samuel Jia Cong]
 
   style: apa
   locale: en
@@ -357,6 +357,7 @@ filtered_bibtex_keywords:
     poster,
     preview,
     selected,
+    venue_display,
     slides,
     supp,
     video,
