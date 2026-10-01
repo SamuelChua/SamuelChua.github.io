@@ -11,7 +11,7 @@ The project aims to coordinate four robots across two assembly lines to prepare 
 
 I led the ROS communication layer that lets these components work together. Custom message definitions and a shared Python interface, `TrailMixInterface`, give teams a consistent way to exchange commands, world state, and execution feedback. Message validation and publish-rate monitoring help catch integration errors, while status and failure messages let the scheduler track progress and respond when tasks fail.
 
-[View code and README](https://github.com/SamuelChua/TrailMix-MultiRobot)
+[View code and README](https://github.com/SamuelChua/TrailMixMultiRobot)
 
 ### Demo
 
